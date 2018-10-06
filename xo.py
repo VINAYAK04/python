@@ -33,3 +33,6 @@ while True:
 			    if(a[i]==a[i+3] and a[i+6]):
 			    print("Game Over...")	   
 			    exit()
+
+		else:
+			continue    
